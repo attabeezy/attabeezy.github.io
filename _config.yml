@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Benjamin Ekow Attabra
-title: KNUST Undergraduate Student
+title: KNUST Undergrad | YARA Research Fellow '25 | Claude Campus Ambassador '26
 email: beattabra@st.knust.edu.gh
 email_title: E-mail
 website: attabeezy.github.io
@@ -61,27 +61,27 @@ content:
       - layout: top-middle
         border: weak
         title: Sequential Deep Learning for Credit Risk Modelling
-        link_text: https://github.com/Attabeezy/sequential-crm-for-dce
+        link_text: https://github.com/attabeezy/seqcredit-model
         quote: >
           Cause if you ain't doing what you love it's only you to blame
         description: | # this will include new lines to allow paragraphs
-          Developing a Sequential Deep Learning framework for Credit Risk Modelling in data-constrained emerging markets. Leveraging Recurrent Neural Networks (RNNs), the model captures temporal dependencies in fragmented financial history data to significantly improve prediction accuracy over traditional methods.
+          Sequential credit risk modelling for data-constrained environments. Leveraging temporal feature engineering and sequential deep learning on mobile money transaction histories.
       - layout: top-middle
         border: weak
-        title: "SWELM: Semantic Weighting for Equitable Language Modeling"
-        link_text: https://github.com/Attabeezy/semweight-equity
+        title: EdgeTutor
+        link_text: https://github.com/attabeezy/edge-tutor
         quote: >
           Call my unborn son and tell him that's the mission
         description: |
-          Addressing equitable performance in multilingual NLP models (compatible with Llama 3, GPT). Designed and applied a novel Semantic Weighting and Adaptive Sampling strategy to dynamically adjust training distributions based on language representation quality.
+          An offline, on-device RAG tutoring assistant for Android, aimed at helping engineering students query textbooks without internet. Supports PDF/TXT ingestion and retrieval locally.
       - layout: top-middle
         border: weak
-        title: Quant Enthusiasts Risk Engine
-        link_text: https://github.com/Attabeezy/Quant-Enthusiasts-Risk-Engine
+        title: PaperGo
+        link_text: https://github.com/attabeezy/papergo
         quote: >
           Found my position, let's hit the road
         description: |
-          Contributed to a comprehensive quantitative risk engine in Python designed for calculating and simulating key financial risk metrics. The engine supports multiple estimation methods for Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR). Implemented Monte Carlo simulation capabilities to conduct portfolio stress testing and provide robust risk management analysis for various asset classes.
+          Academic Paper Aggregator for arXiv, Semantic Scholar, and OpenReview. Streamlining the research process by centralizing access to the latest academic publications.
 
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
@@ -108,6 +108,26 @@ content:
         - Utilized transaction datasets to extract valuable insights and deliver data-driven commercial recommendations
         - Identified benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making
         - Create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+dcq_BiFrcQzs4S9huhHGM_1743333311609_completion_certificate.pdf)
+        - Utilized transaction datasets to extract insights and deliver data-driven commercial recommendations.
+        - Identified benchmark stores for uplift testing on trial store layouts.
+
+        [Quantitative Research, Forage (JPMorgan Chase & Co), Virtual Experience - October 2024](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._BiFrcQzs4S9huhHGM_1728733265196_completion_certificate.pdf)
+        - Analyzed loan books to estimate probability of default using dynamic programming and FICO score categorization.
 
 # Footer
 footer_show_references: false
