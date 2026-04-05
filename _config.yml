@@ -87,6 +87,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: "2026"
+        description: |
+            **Benjamin Ekow Attabra** (2026). [A tourist guide to ethical artificial intelligence usage](https://www.researchgate.net/publication/388456441_A_tourist_guide_to_ethical_artificial_intelligence_usage). Take this as your tourist guide to the landscape and terrains of ethical AI usage. As AI systems subtly thread themselves into our daily lives, they carry not only impressive capabilities and convenience but also adverse effects. From deciding who is going to get a loan to identifying faces in public domains, AI systems increasingly influence our world and not always for the better. Ethical navigation is about managing those tradeoffs thoughtfully and responsibly.
+
+      - layout: left
         title: "2023"
         description: |
             **Benjamin Ekow Attabra** (2023). [Market Capitalization Forecasting with Annuity Due Models](https://www.researchgate.net/publication/387671507_Market_Capitalization_Forecasting_with_Annuity_Due_Models). This paper presents a mathematical model for estimating the future market capitalization of public companies by adapting the future value of annuity due formula. Using principles from geometric series and compound interest, we demonstrate how this model can provide structured forecasts for company valuations, providing a systematic approach based on established financial mathematics principles.
