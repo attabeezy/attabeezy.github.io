@@ -13,8 +13,13 @@ body.dark {
   /* Ensure dark mode styles are applied if theme doesn't handle body class automatically */
 }
 
-#theme-toggle {
-  display: flex;
+.icons li a.button--sacnite {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
+  vertical-align: middle;
+}
+
+#theme-toggle {
+  cursor: pointer;
 }

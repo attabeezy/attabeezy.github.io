@@ -100,38 +100,25 @@ content:
     layout: text
     content: |
         **Research Fellow, Young Africans Research Academy** - May 2025 – Present
-        - Selected as 1 of 10 fellows from 600+ applicants for a competitive pan-African research fellowship.
-        - Completed training in research design, literature review, data collection, quantitative & qualitative analysis, and academic writing.
-        - Preparing independent research on Sequential Deep Learning for Credit Risk Modelling in Data-Constrained Environments, with emphasis on financial inclusion and applied AI.
+        Conducting independent research on Sequential Deep Learning for Credit Risk Modelling in data-constrained environments.
 
         **Co-Founder & Co-President, Claude Builder Club @ KNUST** - Jan 2025 – Present
-        - Co-managed fiscal allocation for API procurement and computational resources for LLM development.
-        - Directed deployment of Claude-based prompt engineering frameworks and evaluation benchmarks.
-        - Coordinated the technical resources and sandbox logistics for club-wide AI hackathons.
+        Co-leading LLM development, fiscal allocation for API resources, and coordinating AI hackathons.
 
         **Treasurer, IEEE KNUST ComSoc Student Branch** - Aug 2025 – Present
-        - Managed and reconciled all Branch finances and accounts, ensuring strict adherence to IEEE compliance policies.
-        - Chaired the Fundraising Committee, generating project revenue and securing external sponsorships to support Branch operations.
-        - Directed strategic budget allocation across the Executive Committee for key events and project initiatives.
+        Managing branch finances, ensuring compliance, and directing strategic budget allocation for key initiatives.
 
         **Trade & Tech Committee Deputy Chair, Ghana Engineering Students Association** - Sep 2025 – Present
-        - Appointed under the GESA Constitution to co-lead the TRATECH Committee, tasked with promoting trade, technology, and innovation development among engineering students.
-        - Assist in reviewing, refining, and implementing innovative student projects, fostering entrepreneurship and applied research across the College of Engineering.
-        - Lead Tutor, GESA Digital School: designed practical curricula for digital skills; leading Programming, Machine Learning, and Cybersecurity programs.
+        Co-leading tech innovation projects and designing curricula for Programming, Machine Learning, and Cybersecurity.
 
         **Volunteer, NASA Space Apps Challenge – Kumasi Local Event** - Oct 2025
-        - Provided tech support for 20+ participants, troubleshooting issues, to ensure seamless operation of the 48-hour hackathon.
-        - Coordinated pre-event logistics and physical setup, efficiently deploying essential resources (power, internet access, and workstations) for 5+ competing teams.
+        Provided technical support and logistics coordination for the 48-hour local hackathon event.
 
-        [Quantitative Research, Forage (JPMorgan Chase & Co), Virtual Experience - October 2024](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._BiFrcQzs4S9huhHGM_1728733265196_completion_certificate.pdf)
-        - Completed a simulation focused on quantitative research methods
-        - Analyzed a book of loans to estimate a customer's probability of default
-        - Used dynamic programming to convert FICO scores into categorical data to predict defaults
+        **Quantitative Research, Forage (JPMorgan Chase & Co)** - October 2024
+        Virtual experience focused on credit risk modelling, analyzing probability of default using dynamic programming.
 
-        [Data Analytics Intern, Forage (Quantium), Virtual Experience - March 2025](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_BiFrcQzs4S9huhHGM_1743333311609_completion_certificate.pdf)
-        - Utilized transaction datasets to extract valuable insights and deliver data-driven commercial recommendations
-        - Identified benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making
-        - Create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+        **Data Analytics Intern, Forage (Quantium)** - March 2025
+        Virtual experience analyzing transaction datasets to deliver data-driven commercial recommendations and uplift testing.
 
 # Footer
 footer_show_references: false
