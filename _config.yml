@@ -13,8 +13,8 @@ email_title: E-mail
 website: attabeezy.github.io
 website_title: portfolio website
 
-# Dark Mode (true/false/never)
-darkmode: true
+# Dark Mode (true/false/never/manual)
+darkmode: manual
 
 # Social links
 # twitter_username: benattabra

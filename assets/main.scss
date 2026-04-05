@@ -3,3 +3,18 @@
 ---
 
 @import 'modern-resume-theme';
+
+/* Theme Toggle Transition */
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark {
+  /* Ensure dark mode styles are applied if theme doesn't handle body class automatically */
+}
+
+#theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
