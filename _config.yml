@@ -76,14 +76,6 @@ content:
           Offline, on-device RAG tutoring assistant for Android, built for first-year engineering students at KNUST to query textbooks without internet. Supports PDF/TXT ingestion and retrieval locally, designed to run on ~1 GB RAM devices using lightweight/quantized models (Gemma-3-270M) and an ONNX embedder pipeline. Ships as both a Python MVP prototype and a full Android app in Kotlin/Jetpack Compose.
       - layout: top-middle
         border: weak
-        title: OFDM-UNet
-        link_text: https://github.com/attabeezy/ofdm-unet
-        quote: >
-          Found my position, let's hit the road
-        description: |
-          Compact 2D U-Net for time–frequency interference suppression in OFDM. Operates on the OFDM resource grid (Re/Im channels) and predicts a real-valued mask applied element-wise to attenuate interference, trained with a weighted complex-L1 loss with extra weight on pilot bins. Includes a full pipeline — OFDM preprocessing, dataset generation, training CLI, baseline comparisons, EVM/BER evaluation, and a demo notebook.
-      - layout: top-middle
-        border: weak
         title: PaperGo
         link_text: https://github.com/attabeezy/papergo
         quote: >
