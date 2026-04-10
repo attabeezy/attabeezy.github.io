@@ -102,35 +102,42 @@ content:
             **Benjamin Ekow Attabra** (2023). [Mathematical Analysis of Multi-Outcome Sports Betting Arbitrage: A System of Equations Approach](https://www.researchgate.net/publication/387671984_Mathematical_Analysis_of_Multi-Outcome_Sports_Betting_Arbitrage_A_System_of_Equations_Approach). This paper introduces a mathematical framework for identifying arbitrage opportunities in three-outcome sports betting markets. By utilizing systems of simultaneous equations, we develop a method for optimal stake allocation across bookmakers.
 
   - title: Experience
-    layout: experience
+    layout: list
     content:
-      - role: Research Fellow
-        organization: Young Africans Research Academy
-        dates: May 2025 – Present
+      - layout: left
+        title: Research Fellow
+        sub_title: Young Africans Research Academy
+        caption: May 2025 – Present
         description: Conducting independent research on Sequential Deep Learning for Credit Risk Modelling in data-constrained environments.
-      - role: Co-Founder & Co-President
-        organization: Claude Builder Club @ KNUST
-        dates: Jan 2025 – Present
+      - layout: left
+        title: Co-Founder & Co-President
+        sub_title: Claude Builder Club @ KNUST
+        caption: Jan 2025 – Present
         description: Co-leading LLM development, fiscal allocation for API resources, and coordinating AI hackathons.
-      - role: Treasurer
-        organization: IEEE KNUST ComSoc Student Branch
-        dates: Aug 2025 – Present
+      - layout: left
+        title: Treasurer
+        sub_title: IEEE KNUST ComSoc Student Branch
+        caption: Aug 2025 – Present
         description: Managing branch finances, ensuring compliance, and directing strategic budget allocation for key initiatives.
-      - role: Trade & Tech Committee Deputy Chair
-        organization: Ghana Engineering Students Association
-        dates: Sep 2025 – Present
+      - layout: left
+        title: Trade & Tech Committee Deputy Chair
+        sub_title: Ghana Engineering Students Association
+        caption: Sep 2025 – Present
         description: Co-leading tech innovation projects and designing curricula for Programming, Machine Learning, and Cybersecurity.
-      - role: Volunteer
-        organization: NASA Space Apps Challenge – Kumasi Local Event
-        dates: Oct 2025
+      - layout: left
+        title: Volunteer
+        sub_title: NASA Space Apps Challenge – Kumasi Local Event
+        caption: Oct 2025
         description: Provided technical support and logistics coordination for the 48-hour local hackathon event.
-      - role: Quantitative Research
-        organization: Forage (JPMorgan Chase & Co)
-        dates: Oct 2024
+      - layout: left
+        title: Quantitative Research
+        sub_title: Forage (JPMorgan Chase & Co)
+        caption: Oct 2024
         description: Virtual experience focused on credit risk modelling, analyzing probability of default using dynamic programming.
-      - role: Data Analytics Intern
-        organization: Forage (Quantium)
-        dates: Mar 2025
+      - layout: left
+        title: Data Analytics Intern
+        sub_title: Forage (Quantium)
+        caption: Mar 2025
         description: Virtual experience analyzing transaction datasets to deliver data-driven commercial recommendations and uplift testing.
 
 # Footer
