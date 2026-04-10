@@ -1,0 +1,18 @@
+<div class="projects-grid">
+  {% for item in include.content %}
+  <div class="project-card">
+    <div class="project-card__header">
+      <h4 class="project-card__title">{{ item.title }}</h4>
+      {% if item.link_text %}
+        <a href="{{ item.link_text }}" class="project-card__link" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+          <i class="fab fa-github"></i>
+        </a>
+      {% endif %}
+    </div>
+    {% if item.quote %}
+      <p class="project-card__quote">{{ item.quote }}</p>
+    {% endif %}
+    <div class="project-card__description">{{ item.description | markdownify }}</div>
+  </div>
+  {% endfor %}
+</div>

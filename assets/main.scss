@@ -23,3 +23,77 @@ body.dark {
 #theme-toggle {
   cursor: pointer;
 }
+
+/* Projects Card Grid */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.project-card {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+    transform: translateY(-3px);
+  }
+
+  &__header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  &__title {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  &__link {
+    font-size: 1.25rem;
+    flex-shrink: 0;
+    opacity: 0.6;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  &__quote {
+    font-size: 0.8rem;
+    font-style: italic;
+    opacity: 0.55;
+    margin: 0 0 0.75rem 0;
+    line-height: 1.4;
+  }
+
+  &__description {
+    font-size: 0.9rem;
+    line-height: 1.65;
+    margin: 0;
+
+    p {
+      margin: 0;
+    }
+  }
+}
+
+body.dark {
+  .project-card {
+    border-color: rgba(255, 255, 255, 0.12);
+
+    &:hover {
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+    }
+  }
+}
