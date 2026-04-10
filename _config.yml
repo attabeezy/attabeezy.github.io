@@ -114,45 +114,45 @@ content:
     content:
       - layout: left
         title: Research Fellow
-        sub_title: Young Africans Research Academy
         caption: May 2025 – Present
         description: |
+          **Young Africans Research Academy**
           Selected as 1 of 10 fellows from 600+ applicants for a competitive pan-African research fellowship. Completed training in research design, literature review, data collection, quantitative & qualitative analysis, and academic writing. Preparing independent research on Sequential Deep Learning for Credit Risk Modelling in Data-Constrained Environments, with emphasis on financial inclusion and applied AI.
       - layout: left
         title: Co-Founder & Co-President
-        sub_title: Claude Builder Club @ KNUST
         caption: Jan 2025 – Present
         description: |
+          **Claude Builder Club @ KNUST**
           Co-managed fiscal allocation for API procurement and computational resources for LLM development. Directed deployment of Claude-based prompt engineering frameworks and evaluation benchmarks. Coordinated technical resources and sandbox logistics for club-wide AI hackathons.
       - layout: left
         title: Treasurer
-        sub_title: IEEE KNUST ComSoc Student Branch
         caption: Aug 2025 – Present
         description: |
+          **IEEE KNUST ComSoc Student Branch**
           Managed and reconciled all Branch finances and accounts, ensuring strict adherence to IEEE compliance policies. Chaired the Fundraising Committee, generating project revenue and securing external sponsorships to support Branch operations. Directed strategic budget allocation across the Executive Committee for key events and project initiatives.
       - layout: left
         title: Trade & Tech Committee Deputy Chair
-        sub_title: Ghana Engineering Students Association
         caption: Sep 2025 – Present
         description: |
+          **Ghana Engineering Students Association**
           Appointed under the GESA Constitution to co-lead the TRATECH Committee, tasked with promoting trade, technology, and innovation development among engineering students. Assists in reviewing, refining, and implementing innovative student projects, fostering entrepreneurship and applied research across the College of Engineering. Lead Tutor for the GESA Digital School — designed practical curricula for Programming, Machine Learning, and Cybersecurity.
       - layout: left
         title: Volunteer
-        sub_title: NASA Space Apps Challenge – Kumasi Local Event
         caption: Oct 2025
         description: |
+          **NASA Space Apps Challenge – Kumasi Local Event**
           Provided tech support for 20+ participants, troubleshooting issues to ensure seamless operation of the 48-hour hackathon. Coordinated pre-event logistics and physical setup, efficiently deploying essential resources — power, internet access, and workstations — for 5+ competing teams.
       - layout: left
         title: Quantitative Research
-        sub_title: Forage (JPMorgan Chase & Co)
         caption: Oct 2024
         description: |
+          **Forage (JPMorgan Chase & Co)**
           Virtual experience focused on credit risk modelling, analyzing probability of default using dynamic programming. Completed tasks in investment banking fundamentals and quantitative research methods.
       - layout: left
         title: Data Analytics Intern
-        sub_title: Forage (Quantium)
         caption: Mar 2025
         description: |
+          **Forage (Quantium)**
           Virtual experience analyzing transaction datasets to deliver data-driven commercial recommendations and uplift testing for retail strategy.
 
 # Footer
