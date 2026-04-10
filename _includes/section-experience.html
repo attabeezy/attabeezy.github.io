@@ -1,9 +1,7 @@
 <div class="experience-list">
   {% for item in include.content %}
   <div class="experience-item">
-    <div class="experience-item__meta">
-      <span class="experience-item__dates">{{ item.dates }}</span>
-    </div>
+    <div class="experience-item__dates">{{ item.dates }}</div>
     <div class="experience-item__content">
       <p class="experience-item__role">{{ item.role }}</p>
       <p class="experience-item__org">{{ item.organization }}</p>
@@ -12,5 +10,6 @@
       {% endif %}
     </div>
   </div>
+  {% unless forloop.last %}<hr class="experience-divider">{% endunless %}
   {% endfor %}
 </div>
