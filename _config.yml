@@ -73,7 +73,7 @@ content:
         quote: >
           Call my unborn son and tell him that's the mission
         description: |
-          Offline, on-device RAG tutoring assistant for Android, built for first-year engineering students at KNUST to query textbooks without internet. Supports PDF/TXT ingestion and retrieval locally, designed to run on ~1 GB RAM devices using lightweight/quantized models (Gemma-3-270M) and an ONNX embedder pipeline. Ships as both a Python MVP prototype and a full Android app in Kotlin/Jetpack Compose.
+          Offline, on-device RAG tutoring assistant for Android, built for first-year engineering students at KNUST to query textbooks without internet. Supports PDF/TXT ingestion and retrieval locally, designed to run on ~1 GB RAM devices using lightweight/quantized models (Qwen2.5:0.5b) and an ONNX embedder pipeline. Ships as both a Python MVP prototype and a full Android app in Kotlin/Jetpack Compose.
       - layout: top-middle
         border: weak
         title: PaperGo
