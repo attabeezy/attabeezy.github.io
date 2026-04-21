@@ -87,10 +87,7 @@ content:
         title: Akan-BPE
         link_text: https://github.com/attabeezy/akan-bpe
         description: |
-          * Developed a research framework to mitigate the "Tokenization Tax" for the Akan language, addressing the efficiency gap in LLMs for low-resource African languages.
-          * Engineered and benchmarked specialized Byte Pair Encoding (BPE) tokenizers using Python and Hugging Face, comparing performance across conversational (ASR) and formal (TTS) text regimes.
-          * Optimized Token Fertility (tokens-per-word ratio), significantly reducing sequence lengths compared to standard baselines (e.g., GPT-2/Llama) to lower inference latency and API costs.
-          * Built automated data pipelines for normalizing multi-source datasets (Google WaxalNLP, Ghana NLP) and a unified benchmarking suite for empirical tokenizer evaluation.
+          Specialized Byte Pair Encoding (BPE) tokenizers for the Akan language to mitigate the "Tokenization Tax" in LLMs. Benchmarked against standard baselines (GPT-2/Llama) to optimize Token Fertility and reduce inference latency for low-resource African languages.
 
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
