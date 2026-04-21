@@ -82,6 +82,15 @@ content:
           Keep running, keep searching
         description: |
           Academic paper aggregator pulling from arXiv, Semantic Scholar, and OpenReview. Streamlines the research process by centralizing access to the latest publications in one place.
+      - layout: top-middle
+        border: weak
+        title: Akan-BPE
+        link_text: https://github.com/attabeezy/akan-bpe
+        description: |
+          * Developed a research framework to mitigate the "Tokenization Tax" for the Akan language, addressing the efficiency gap in LLMs for low-resource African languages.
+          * Engineered and benchmarked specialized Byte Pair Encoding (BPE) tokenizers using Python and Hugging Face, comparing performance across conversational (ASR) and formal (TTS) text regimes.
+          * Optimized Token Fertility (tokens-per-word ratio), significantly reducing sequence lengths compared to standard baselines (e.g., GPT-2/Llama) to lower inference latency and API costs.
+          * Built automated data pipelines for normalizing multi-source datasets (Google WaxalNLP, Ghana NLP) and a unified benchmarking suite for empirical tokenizer evaluation.
 
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
