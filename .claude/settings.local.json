@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:victordibia.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(curl -s \"https://victordibia.com/cv/\")",
+      "Read(//tmp/**)",
+      "Bash(python3)",
+      "Bash(sed 's/<[^>]*>//g')",
+      "Bash(python3 -c ':*)",
+      "Bash(pip install:*)"
+    ]
+  }
+}
