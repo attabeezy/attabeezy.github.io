@@ -60,6 +60,12 @@ content:
     content:
       - layout: top-middle
         border: weak
+        title: AutoSource
+        link_text: https://github.com/attabeezy/autosource
+        description: |
+          An autonomous agentic pipeline that transforms static PDF reports into high-fidelity synthetic datasets with verifiable DataCards. Serving as a Synthetic Data Factory for Africa.
+      - layout: top-middle
+        border: weak
         title: Sequential Deep Learning for Credit Risk Modelling
         link_text: https://github.com/attabeezy/seqcredit-model
         quote: >
