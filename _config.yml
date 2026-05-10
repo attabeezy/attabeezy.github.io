@@ -34,7 +34,7 @@ orcid_username: 0009-0008-6963-5422
 additional_links:
 - title: resume
   icon: fas fa-file
-  url: https://drive.google.com/file/d/1xfF4i4EdpOHSfCTfJk9cUz7KZZR6vTls/view?usp=sharing
+  url: https://drive.google.com/file/d/1brFIaen80W1XkuPLvFAHkvz_fzqTdrNV/view?usp=sharing
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -60,8 +60,8 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: AutoSource
-        link_text: https://github.com/attabeezy/autosource
+        title: AgentDataset
+        link_text: https://github.com/attabeezy/agentdataset
         description: |
           An autonomous agentic pipeline that transforms static PDF reports into high-fidelity synthetic datasets with verifiable DataCards. Serving as a Synthetic Data Factory for Africa.
       - layout: top-middle
